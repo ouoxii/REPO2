@@ -1,3 +1,4 @@
 12/1 item1
 12/2 item2
-
+12/3 contact Alice
+12/4 meeting with Bob
